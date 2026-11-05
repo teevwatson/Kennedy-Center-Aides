@@ -1,4 +1,3 @@
 Analyticskit
 Pandas
-os
 numpy
