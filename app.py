@@ -2,6 +2,7 @@ from analyticskit import *
 import pandas as pd
 import os
 import numpy as np
+import openpyxl
 Alloc_path = select_file('Please Select the Student Report file.')
 Heirarchy_path = select_file('Please Select the Updated Program Heirarchy file.')
 Tableau_path = select_file('Please Select the Tableau file.')
